@@ -56,14 +56,14 @@ If you use Shenzhen Dataset in your work, please cite it as follows:
   year={2021}
 }
 
-@inproceedings{yi2021learning,
+@inproceedings{yi2022learning,
   title={Learning to Share in Multi-Agent Reinforcement Learning},
   author={Yi, Yuxuan and Li, Ge and Wang, Yaowei and Lu, Zongqing},
   booktitle={Advances in Neural Information Processing Systems},
   year={2022}
 }
 
-@article{zhu2021variationally,
+@article{zhu2023variationally,
   title={MetaVIM: Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control},
   author={Zhu, Liwen and Peng, Peixi and Lu, Zongqing and Tian, Yonghong},
   journal={IEEE Transactions on Knowledge and Data Engineering, online},
