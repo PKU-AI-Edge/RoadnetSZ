@@ -52,24 +52,23 @@ If you use Shenzhen Dataset in your work, please cite it as follows:
 @inproceedings{xu2021hierarchically,
   title={Hierarchically and cooperatively learning traffic signal control},
   author={Xu, Bingyu and Wang, Yaowei and Wang, Zhaozhi and Jia, Huizhu and Lu, Zongqing},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={1},
-  pages={669--677},
+  booktitle={AAAI Conference on Artificial Intelligence},
   year={2021}
+}
+
+@inproceedings{yi2021learning,
+  title={Learning to Share in Multi-Agent Reinforcement Learning},
+  author={Yi, Yuxuan and Li, Ge and Wang, Yaowei and Lu, Zongqing},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2022}
 }
 
 @article{zhu2021variationally,
-  title={Variationally and intrinsically motivated reinforcement learning for decentralized traffic signal control},
-  author={Zhu, Liwen and Peng, Peixi and Lu, Zongqing and Wang, Xiangqian and Tian, Yonghong},
-  journal={arXiv preprint arXiv:2101.00746},
-  year={2021}
+  title={MetaVIM: Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control},
+  author={Zhu, Liwen and Peng, Peixi and Lu, Zongqing and Tian, Yonghong},
+  journal={IEEE Transactions on Knowledge and Data Engineering, online},
+  year={2023}
 }
 
-@article{yi2021learning,
-  title={Learning to Share in Multi-Agent Reinforcement Learning},
-  author={Yi, Yuxuan and Li, Ge and Wang, Yaowei and Lu, Zongqing},
-  journal={arXiv preprint arXiv:2112.08702},
-  year={2021}
-}
+
 ```
